@@ -1,0 +1,7 @@
+{
+    "workbench.activityBar.autoHide": true,
+    "workbench.activityBar.compact": true,
+    "workbench.view.alwaysShowHeaderActions": false,
+    "workbench.editor.alwaysShowEditorActions": false,
+    "workbench.settings.alwaysShowAdvancedSettings": false
+}

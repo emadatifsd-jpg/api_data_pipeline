@@ -1,0 +1,13 @@
+month,month_name,avg_temperature,avg_max_temperature,avg_min_temperature
+1,January,11.52,15.85,7.70
+2,February,11.47,15.77,7.71
+3,March,16.03,21.37,11.28
+4,April,19.88,25.37,14.66
+5,May,23.20,28.57,17.92
+6,June,26.82,32.39,21.27
+7,July,26.93,31.93,22.17
+8,August,26.30,31.25,21.81
+9,September,23.79,28.51,19.61
+10,October,20.37,24.88,16.18
+11,November,16.95,21.33,12.88
+12,December,12.71,16.42,9.33

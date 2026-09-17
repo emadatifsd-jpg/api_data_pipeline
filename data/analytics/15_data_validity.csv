@@ -1,0 +1,5 @@
+validation_type,invalid_count
+negative_precipitation,0
+negative_wind_speed,0
+humidity_out_of_range,0
+min_temperature_above_max,0

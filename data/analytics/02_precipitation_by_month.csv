@@ -1,0 +1,13 @@
+month,month_name,total_precipitation,rainy_days
+1,January,358.70,77
+2,February,260.00,82
+3,March,222.50,85
+4,April,150.30,48
+5,May,323.30,84
+6,June,237.40,61
+7,July,463.40,103
+8,August,380.80,100
+9,September,398.20,100
+10,October,378.10,80
+11,November,350.40,78
+12,December,286.70,78

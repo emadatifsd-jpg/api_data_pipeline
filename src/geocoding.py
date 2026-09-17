@@ -16,7 +16,6 @@ CITIES = [
 
 GEOCODING_URL = "https://geocoding-api.open-meteo.com/v1/search"
 
-
 def get_locations(cities=CITIES):
     locations = []
 

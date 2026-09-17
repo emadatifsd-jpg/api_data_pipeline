@@ -39,6 +39,28 @@ def get_connection():
 # ============================================================
 
 def run_query(sql, as_dataframe=False):
+    conn = get_connection()
+    try:
+        if as_dataframe:
+            cursor = conn.cursor()
+            cursor.execute(sql)
+
+            rows = cursor.fetchall()
+            columns = cursor.column_names
+
+            cursor.close()
+
+            return pd.DataFrame(rows, columns=columns)
+
+        cursor = conn.cursor(dictionary=True)
+        cursor.execute(sql)
+        results = cursor.fetchall()
+        cursor.close()
+
+        return results
+
+    finally:
+        conn.close()
     """
     Execute a SQL query and return the results.
 

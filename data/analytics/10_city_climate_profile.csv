@@ -1,0 +1,10 @@
+city,country,avg_temperature,highest_temperature,lowest_temperature,total_precipitation,rainy_days,avg_humidity,avg_wind_speed
+Amman,Jordan,19.28,42.60,-2.40,130.30,66,48.17,8.87
+Cairo,Egypt,24.03,43.90,7.10,8.80,21,47.55,8.15
+Istanbul,Republic of Türkiye,16.13,38.10,-3.70,644.10,140,69.52,11.80
+Khartoum,Sudan,30.90,45.40,13.50,77.30,29,26.80,9.67
+London,United Kingdom,12.42,33.60,-4.50,613.40,191,73.56,10.93
+Munich,Germany,10.08,34.40,-8.10,840.70,193,75.37,8.44
+Riyadh,Saudi Arabia,28.07,46.20,5.60,73.90,32,22.46,7.38
+Salalah,Oman,26.09,40.20,14.20,153.80,104,65.02,7.98
+Zurich,Switzerland,10.38,33.70,-5.40,1267.50,200,81.24,5.49

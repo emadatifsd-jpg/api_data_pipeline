@@ -1,0 +1,10 @@
+city,avg_temperature,total_precipitation,avg_humidity,temperature_rank,precipitation_rank
+Khartoum,30.90,77.30,26.80,1,7
+Riyadh,28.07,73.90,22.46,2,8
+Salalah,26.09,153.80,65.02,3,5
+Cairo,24.03,8.80,47.55,4,9
+Amman,19.28,130.30,48.17,5,6
+Istanbul,16.13,644.10,69.52,6,3
+London,12.42,613.40,73.56,7,4
+Zurich,10.38,1267.50,81.24,8,1
+Munich,10.08,840.70,75.37,9,2

@@ -1,0 +1,10 @@
+city,avg_humidity,minimum_humidity,maximum_humidity
+Zurich,81.24,50,99
+Munich,75.37,32,98
+London,73.56,43,96
+Istanbul,69.52,27,95
+Salalah,65.02,8,95
+Amman,48.17,14,94
+Cairo,47.55,12,71
+Khartoum,26.80,7,85
+Riyadh,22.46,6,88
